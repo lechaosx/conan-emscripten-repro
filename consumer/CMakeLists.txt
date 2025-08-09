@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
 
-project(repro_sizeof_void_p_test)
+project(consumer)
 
-find_package(repro_sizeof_void_p REQUIRED)
+find_package(dependency REQUIRED)
