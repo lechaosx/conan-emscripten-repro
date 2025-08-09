@@ -1,0 +1,5 @@
+[requires]
+repro_sizeof_void_p/0.1
+
+[generators]
+CMakeDeps
