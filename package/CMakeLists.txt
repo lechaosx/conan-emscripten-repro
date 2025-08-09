@@ -7,5 +7,3 @@ if(NOT DEFINED CMAKE_SIZEOF_VOID_P)
 endif()
 
 message(STATUS "Pointer size is ${CMAKE_SIZEOF_VOID_P}")
-
-add_library(dummy STATIC dummy.cpp)
